@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+  background: #0cbaba;
+}
+html {
+  display: table;
+  margin: auto;
+}
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+.margin {
+  margin: 0 !important;
+}
+.div-1 {
+  border: solid 5px #0cbaba;
+  box-shadow: 3px;
+}
